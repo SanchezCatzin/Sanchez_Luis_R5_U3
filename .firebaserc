@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionic-firebase-75d81": {
+      "hosting": {
+        "app": [
+          "ionic-firebase-75d81"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-firebase-75d81"
+  }
+}
